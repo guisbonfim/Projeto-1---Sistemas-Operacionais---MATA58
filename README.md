@@ -31,7 +31,7 @@ O jogo competição foi pensado para ser entre dois jogadores. Cada jogador tent
 
 ## Instruções para Iniciar
 
-1. **Certifique-se de que o Python e o Pygame Zero estão instalados.**
+1. **Primeiro se certifique de que o Python e o Pygame Zero estão instalados.**
 2. **Coloque as imagens e sons necessários na pasta de recursos do projeto.**
 3. **Execute o jogo com o seguinte comando:**
    ```bash
